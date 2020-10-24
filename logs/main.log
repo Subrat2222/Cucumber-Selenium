@@ -1,0 +1,1065 @@
+[2020-10-24 08:04:00,961] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:04:01,041] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:17:28,531] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:17:28,621] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:17:43,799] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:17:58,978] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:18:14,237] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:18:29,713] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:18:29,792] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:18:31,658] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method is Failed
+[2020-10-24 08:18:51,656] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:18:51,755] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:19:06,959] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:19:22,053] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:19:37,448] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:19:52,942] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:19:53,018] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:19:54,626] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV is Failed
+[2020-10-24 08:20:15,958] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:20:16,043] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:20:31,161] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:20:46,247] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:21:01,529] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:21:16,978] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:21:17,060] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:22:02,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:22:02,369] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:22:02,369] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:22:02,745] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:22:02,747] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:22:02,747] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:22:06,836] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:22:06,878] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:22:06,879] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:22:06,880] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:22:10,164] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:22:10,186] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:22:10,186] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:22:10,187] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:22:13,467] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:22:13,509] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:22:13,510] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:22:13,510] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:22:16,882] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:23:31,085] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:23:31,087] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:23:31,087] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:23:31,527] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:23:31,528] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:23:31,528] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:23:35,423] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:23:36,289] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:23:36,290] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 08:23:36,408] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:23:36,409] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:23:36,410] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:23:52,059] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:23:52,172] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:24:07,294] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:24:22,474] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:24:37,816] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:24:53,271] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:24:53,355] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:24:55,431] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 08-23-31/screenshots/2020-10-2408_24_55_421.jpeg copied
+[2020-10-24 08:24:55,499] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:24:55,500] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:24:55,501] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:24:58,779] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:24:59,788] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:24:59,788] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 08:24:59,793] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:24:59,794] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:24:59,794] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:25:15,020] [main] ERROR (com.cucumberFramework.pageObjects.HomePage) - Failed to click on butotn Name: Check out
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (b3786e8b1cd4832a545cdcc63197f054)] -> xpath: //div[@class='cart-checkout']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AAIN191M15ER', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\SUBRAT~1.NAY\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55629}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b3786e8b1cd4832a545cdcc63197f054
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.cucumberFramework.pageObjects.BasePage.waitForElementToBeClickable(BasePage.java:28)
+	at com.cucumberFramework.pageObjects.HomePage.clickOnButtonNameWithoutFrame(HomePage.java:99)
+	at com.cucumberFramework.stepdefinitions.HomePageStepDefinitions.userClickOnButtonWithoutFrame(HomePageStepDefinitions.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at cucumber.runtime.Utils$1.call(Utils.java:40)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:34)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.runBackground(CucumberScenario.java:59)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:42)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+	at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)
+	at com.cucumberFramework.testRunner.TestRunner.feature(TestRunner.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+[2020-10-24 08:25:30,072] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:26:15,265] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:26:45,716] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 08-23-31/screenshots/2020-10-2408_26_45_713.jpeg copied
+[2020-10-24 08:26:45,767] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:26:45,767] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:26:45,768] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:26:49,015] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:26:49,792] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:26:49,792] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using invalid Credit card payment method,after updating the valid card Test Method started
+[2020-10-24 08:26:49,797] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:26:49,798] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:26:49,798] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:27:05,296] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:27:05,398] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:27:20,581] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:27:35,698] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:27:50,957] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:28:06,412] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:28:06,506] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:28:08,975] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 08-23-31/screenshots/2020-10-2408_28_08_949.jpeg copied
+[2020-10-24 08:28:09,071] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:28:09,073] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:28:09,073] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:28:12,416] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:28:13,284] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:28:13,284] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using Credit card payment method Test Method started
+[2020-10-24 08:28:13,288] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:28:13,290] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:28:13,290] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:28:29,082] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:28:29,172] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:28:44,309] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:28:59,485] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:29:29,535] [main] ERROR (com.cucumberFramework.pageObjects.HomePage) - Failed to click on butotn Name: CreditDebit
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='list-title text-actionable-bold' and contains(text(),'Credit/Debit Card')]' (tried for 15 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.cucumberFramework.pageObjects.BasePage.waitForElementToBeClickable(BasePage.java:28)
+	at com.cucumberFramework.pageObjects.HomePage.clickOnPaymentType(HomePage.java:222)
+	at com.cucumberFramework.stepdefinitions.HomePageStepDefinitions.userClickOnPaymentMethod(HomePageStepDefinitions.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at cucumber.runtime.Utils$1.call(Utils.java:40)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:34)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+	at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)
+	at com.cucumberFramework.testRunner.TestRunner.feature(TestRunner.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='list-title text-actionable-bold' and contains(text(),'Credit/Debit Card')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AAIN191M15ER', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\SUBRAT~1.NAY\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55738}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 745adf2379ac8e773c05dc6a393fafc7
+*** Element info: {Using=xpath, value=//div[@class='list-title text-actionable-bold' and contains(text(),'Credit/Debit Card')]}
+	at jdk.internal.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy23.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 46 more
+[2020-10-24 08:29:44,624] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:30:00,230] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:30:04,590] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:30:04,651] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using Credit card payment method is Passed
+[2020-10-24 08:30:04,820] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:04,822] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[2020-10-24 08:30:04,824] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[2020-10-24 08:30:04,825] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[2020-10-24 08:30:04,825] [main] DEBUG (freemarker.cache) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+[2020-10-24 08:30:05,038] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,038] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,039] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[2020-10-24 08:30:05,039] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[2020-10-24 08:30:05,039] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+[2020-10-24 08:30:05,140] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,141] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,141] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[2020-10-24 08:30:05,142] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[2020-10-24 08:30:05,142] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+[2020-10-24 08:30:05,163] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,164] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,165] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[2020-10-24 08:30:05,166] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[2020-10-24 08:30:05,166] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+[2020-10-24 08:30:05,169] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,169] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,170] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[2020-10-24 08:30:05,171] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[2020-10-24 08:30:05,171] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+[2020-10-24 08:30:05,173] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,175] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,176] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[2020-10-24 08:30:05,178] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[2020-10-24 08:30:05,178] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+[2020-10-24 08:30:05,181] [main] DEBUG (freemarker.cache) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:30:05,191] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,191] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,192] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[2020-10-24 08:30:05,193] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[2020-10-24 08:30:05,193] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+[2020-10-24 08:30:05,199] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,200] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,200] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[2020-10-24 08:30:05,201] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[2020-10-24 08:30:05,201] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+[2020-10-24 08:30:05,203] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,204] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,204] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[2020-10-24 08:30:05,204] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[2020-10-24 08:30:05,205] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+[2020-10-24 08:30:05,217] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,218] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,219] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[2020-10-24 08:30:05,220] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[2020-10-24 08:30:05,220] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+[2020-10-24 08:30:05,226] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,227] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,229] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[2020-10-24 08:30:05,230] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[2020-10-24 08:30:05,231] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+[2020-10-24 08:30:05,268] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,268] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,270] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[2020-10-24 08:30:05,271] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[2020-10-24 08:30:05,271] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+[2020-10-24 08:30:05,284] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:30:05,284] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:30:05,292] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:30:05,293] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,294] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,294] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[2020-10-24 08:30:05,295] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[2020-10-24 08:30:05,295] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+[2020-10-24 08:30:05,350] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,351] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,352] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[2020-10-24 08:30:05,353] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[2020-10-24 08:30:05,354] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+[2020-10-24 08:30:05,357] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:30:05,359] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[2020-10-24 08:30:05,359] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[2020-10-24 08:30:05,360] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[2020-10-24 08:30:05,360] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+[2020-10-24 08:43:32,074] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:43:32,075] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:43:32,076] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:43:32,076] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:43:36,475] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:43:36,491] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:43:36,506] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:43:36,506] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:43:36,506] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:43:39,888] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:43:39,900] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:43:39,901] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:43:39,901] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:43:39,901] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:43:43,343] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:44:20,231] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:44:20,231] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:44:20,233] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:44:20,233] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:44:21,029] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:44:21,030] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:44:21,030] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:44:21,031] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:44:25,512] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:44:27,061] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:44:27,062] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 08:44:27,204] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:44:27,204] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:44:27,204] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:44:27,205] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:44:42,924] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:44:43,031] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:44:58,212] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:45:13,363] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:45:28,645] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:45:44,159] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:45:44,247] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:45:46,502] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 08-44-20/screenshots/2020-10-2408_45_46_493.jpeg copied
+[2020-10-24 08:45:46,618] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:45:46,618] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:45:46,619] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:45:46,619] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:45:50,223] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:45:51,066] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:45:51,067] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 08:45:51,074] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:45:51,074] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:45:51,075] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:45:51,075] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:46:06,705] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:46:06,787] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:46:21,937] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:46:37,160] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:46:52,430] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:47:08,026] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:47:08,105] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:47:39,751] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@66a53104
+[2020-10-24 08:48:09,997] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:48:25,997] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:48:26,065] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV is Passed
+[2020-10-24 08:48:26,158] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:48:26,158] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:48:26,159] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:48:26,159] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:48:29,508] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:48:30,302] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:48:30,302] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using invalid Credit card payment method,after updating the valid card Test Method started
+[2020-10-24 08:48:30,306] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:48:30,306] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:48:30,307] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:48:30,307] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:48:45,942] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:48:46,028] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:49:01,202] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:49:16,369] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:49:31,664] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:49:47,204] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:49:47,276] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:49:49,489] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 08-44-20/screenshots/2020-10-2408_49_49_486.jpeg copied
+[2020-10-24 08:49:49,553] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 08:49:49,554] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:49:49,554] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:49:49,554] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:49:52,772] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 08:49:53,696] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 08:49:53,696] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using Credit card payment method Test Method started
+[2020-10-24 08:49:53,700] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 08:49:53,700] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 08:49:53,701] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 08:49:53,701] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 08:50:09,188] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:50:09,273] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:50:24,381] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:50:39,520] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:50:54,808] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:51:10,391] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 08:51:10,478] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 08:51:10,506] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using Credit card payment method is Passed
+[2020-10-24 08:51:10,724] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:10,725] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[2020-10-24 08:51:10,728] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[2020-10-24 08:51:10,730] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[2020-10-24 08:51:10,734] [main] DEBUG (freemarker.cache) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+[2020-10-24 08:51:10,948] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:10,948] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[2020-10-24 08:51:10,949] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[2020-10-24 08:51:10,950] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[2020-10-24 08:51:10,951] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+[2020-10-24 08:51:11,044] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,045] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,046] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[2020-10-24 08:51:11,046] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[2020-10-24 08:51:11,046] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+[2020-10-24 08:51:11,067] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,068] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,069] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[2020-10-24 08:51:11,069] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[2020-10-24 08:51:11,070] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+[2020-10-24 08:51:11,073] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,074] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,075] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[2020-10-24 08:51:11,076] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[2020-10-24 08:51:11,076] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+[2020-10-24 08:51:11,080] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,081] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,082] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[2020-10-24 08:51:11,082] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[2020-10-24 08:51:11,082] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+[2020-10-24 08:51:11,089] [main] DEBUG (freemarker.cache) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:51:11,096] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,097] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,097] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[2020-10-24 08:51:11,098] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[2020-10-24 08:51:11,098] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+[2020-10-24 08:51:11,103] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,104] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,105] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[2020-10-24 08:51:11,107] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[2020-10-24 08:51:11,107] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+[2020-10-24 08:51:11,109] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,110] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,111] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[2020-10-24 08:51:11,112] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[2020-10-24 08:51:11,112] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+[2020-10-24 08:51:11,126] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,128] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,128] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[2020-10-24 08:51:11,128] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[2020-10-24 08:51:11,129] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+[2020-10-24 08:51:11,131] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,132] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,132] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[2020-10-24 08:51:11,132] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[2020-10-24 08:51:11,136] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+[2020-10-24 08:51:11,171] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,172] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,172] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[2020-10-24 08:51:11,173] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[2020-10-24 08:51:11,173] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+[2020-10-24 08:51:11,187] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:51:11,189] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:51:11,191] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 08:51:11,192] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,192] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,193] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[2020-10-24 08:51:11,193] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[2020-10-24 08:51:11,193] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+[2020-10-24 08:51:11,283] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,284] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,284] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[2020-10-24 08:51:11,285] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[2020-10-24 08:51:11,286] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+[2020-10-24 08:51:11,296] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 08:51:11,297] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[2020-10-24 08:51:11,297] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[2020-10-24 08:51:11,298] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[2020-10-24 08:51:11,298] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+[2020-10-24 09:43:44,757] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:43:44,757] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:43:44,758] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:43:44,758] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:43:44,789] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:43:44,789] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:43:44,790] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:43:44,791] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:43:44,814] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:43:44,814] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:43:44,815] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:43:44,816] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:44:50,949] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:44:50,949] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:44:50,950] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:44:50,950] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:44:50,995] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:44:50,995] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:44:50,996] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:44:50,996] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:44:51,023] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:44:51,023] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:44:51,025] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:44:51,025] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:26,938] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:26,939] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:26,940] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:26,940] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:26,990] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:26,991] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:26,991] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:26,991] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:27,012] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:27,012] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:27,013] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:27,015] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:57,363] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:57,363] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:57,364] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:57,364] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:57,394] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:57,394] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:57,394] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:57,394] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:45:57,416] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:45:57,416] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:45:57,417] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:45:57,417] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:46:32,954] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:46:32,955] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:46:32,955] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:46:32,955] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:46:33,644] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:46:33,645] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:46:33,646] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:46:33,646] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:46:38,071] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:46:39,759] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:46:39,759] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 09:46:39,876] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:46:39,877] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:46:39,877] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:46:39,877] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:46:51,499] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:47:07,833] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:47:07,834] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:47:07,835] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:47:07,835] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:47:08,485] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:47:08,487] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:47:08,489] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:47:08,491] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:47:13,116] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:47:14,010] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:47:14,010] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 09:47:14,164] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:47:14,164] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:47:14,164] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:47:14,164] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:47:30,089] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:47:30,375] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:47:45,721] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:48:00,925] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:48:16,411] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:48:32,285] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:48:32,388] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:48:34,651] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 09-47-07/screenshots/2020-10-2409_48_34_638.jpeg copied
+[2020-10-24 09:48:34,752] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:48:34,752] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:48:34,752] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:48:34,753] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:48:38,186] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:48:39,058] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:48:39,059] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 09:48:39,066] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:48:39,066] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:48:39,066] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:48:39,066] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:48:54,832] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:48:54,932] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:49:10,064] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:49:25,257] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:49:39,795] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:50:35,922] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:50:35,923] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:50:35,924] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:50:35,924] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:50:36,583] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:50:36,584] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:50:36,584] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:50:36,584] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:50:41,085] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:50:42,021] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:50:42,021] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 09:50:42,167] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:50:42,167] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:50:42,168] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:50:42,168] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:50:57,906] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:50:58,127] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:51:13,437] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:51:28,603] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:51:44,148] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:51:59,905] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:51:59,998] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:52:32,005] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@22ebccb9
+[2020-10-24 09:52:48,454] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:52:48,454] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:52:48,456] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:52:48,456] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:52:49,123] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:52:49,123] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:52:49,124] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:52:49,124] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:52:53,388] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:52:54,284] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:52:54,284] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 09:52:54,397] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:52:54,397] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:52:54,398] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:52:54,398] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:53:10,086] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:53:10,200] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:53:25,358] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:53:40,568] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:53:55,935] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:54:11,673] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:54:11,969] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 09:54:44,021] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@58f437b0
+[2020-10-24 09:55:14,316] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:55:35,509] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@24386839
+[2020-10-24 09:55:51,641] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 09-52-48/screenshots/2020-10-2409_55_51_632.jpeg copied
+[2020-10-24 09:55:51,710] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:55:51,710] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:55:51,711] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:55:51,711] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:55:55,138] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 09:55:56,364] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 09:55:56,364] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 09:55:56,367] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 09:55:56,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:55:56,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:55:56,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:56:11,583] [main] ERROR (com.cucumberFramework.pageObjects.HomePage) - Failed to click on butotn Name: Check out
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (3a9b7b34829f44216dd50d15623093cd)] -> xpath: //div[@class='cart-checkout']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AAIN191M15ER', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\SUBRAT~1.NAY\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:61248}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3a9b7b34829f44216dd50d15623093cd
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.cucumberFramework.pageObjects.BasePage.waitForElementToBeClickable(BasePage.java:28)
+	at com.cucumberFramework.pageObjects.HomePage.clickOnButtonNameWithoutFrame(HomePage.java:99)
+	at com.cucumberFramework.stepdefinitions.HomePageStepDefinitions.userClickOnButtonWithoutFrame(HomePageStepDefinitions.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at cucumber.runtime.Utils$1.call(Utils.java:40)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:34)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.runBackground(CucumberScenario.java:59)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:42)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+	at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)
+	at com.cucumberFramework.testRunner.TestRunner.feature(TestRunner.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+[2020-10-24 09:56:26,661] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:57:01,571] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 09:57:29,334] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:57:29,336] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:57:29,336] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:57:29,337] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:57:29,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:57:29,368] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:57:29,369] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:57:29,369] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 09:57:29,391] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 09:57:29,391] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 09:57:29,393] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 09:57:29,393] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:04:54,458] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:04:54,458] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:04:54,459] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:04:54,459] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:04:54,489] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:04:54,489] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:04:54,489] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:04:54,489] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:04:54,509] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:04:54,510] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:04:54,510] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:04:54,510] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:05:05,826] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:05:05,827] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:05:05,828] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:05:05,828] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:05:06,609] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:05:06,610] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:05:06,611] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:05:06,612] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:05:11,072] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 10:05:12,196] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 10:05:12,197] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 10:05:12,313] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 10:05:12,313] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:05:12,314] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:05:12,314] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:05:28,065] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:05:28,232] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:05:43,426] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:05:58,627] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:06:14,017] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:06:29,736] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:06:30,055] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:07:02,318] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@58867cd5
+[2020-10-24 10:07:32,733] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:07:53,868] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@554c4eaa
+[2020-10-24 10:08:09,588] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 10-05-05/screenshots/2020-10-2410_08_09_581.jpeg copied
+[2020-10-24 10:08:09,666] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:08:09,666] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:08:09,667] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:08:09,667] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:08:12,973] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 10:08:13,918] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 10:08:13,918] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 10:08:13,926] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 10:08:13,927] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:08:13,928] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:08:13,928] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:08:29,681] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:08:29,922] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:08:45,135] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:09:00,342] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:09:15,921] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:09:31,613] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:09:31,856] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:09:34,176] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 10-05-05/screenshots/2020-10-2410_09_34_172.jpeg copied
+[2020-10-24 10:09:34,241] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 10:09:34,241] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:09:34,242] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:09:34,242] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:09:37,693] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 10:09:38,593] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 10:09:38,594] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using invalid Credit card payment method,after updating the valid card Test Method started
+[2020-10-24 10:09:38,599] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 10:09:38,599] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 10:09:38,600] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 10:09:38,600] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 10:09:54,300] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:09:54,388] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:10:09,546] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:10:24,678] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:10:40,040] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:10:55,713] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 10:10:55,833] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 10:10:58,140] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 10-05-05/screenshots/2020-10-2410_10_58_136.jpeg copied
+[2020-10-24 10:10:58,323] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,325] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,326] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[2020-10-24 10:10:58,328] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[2020-10-24 10:10:58,328] [main] DEBUG (freemarker.cache) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+[2020-10-24 10:10:58,535] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,536] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,537] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[2020-10-24 10:10:58,538] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[2020-10-24 10:10:58,538] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+[2020-10-24 10:10:58,633] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,633] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,634] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[2020-10-24 10:10:58,634] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[2020-10-24 10:10:58,634] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+[2020-10-24 10:10:58,645] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,645] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,646] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[2020-10-24 10:10:58,647] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[2020-10-24 10:10:58,647] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+[2020-10-24 10:10:58,650] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,651] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,651] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[2020-10-24 10:10:58,652] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[2020-10-24 10:10:58,652] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+[2020-10-24 10:10:58,654] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,655] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,655] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[2020-10-24 10:10:58,656] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[2020-10-24 10:10:58,656] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+[2020-10-24 10:10:58,659] [main] DEBUG (freemarker.cache) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 10:10:58,669] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,670] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,670] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[2020-10-24 10:10:58,671] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[2020-10-24 10:10:58,671] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+[2020-10-24 10:10:58,684] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,684] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,685] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[2020-10-24 10:10:58,685] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[2020-10-24 10:10:58,685] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+[2020-10-24 10:10:58,687] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,687] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,688] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[2020-10-24 10:10:58,688] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[2020-10-24 10:10:58,688] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+[2020-10-24 10:10:58,700] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,700] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,701] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[2020-10-24 10:10:58,702] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[2020-10-24 10:10:58,702] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+[2020-10-24 10:10:58,706] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,706] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,707] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[2020-10-24 10:10:58,707] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[2020-10-24 10:10:58,708] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+[2020-10-24 10:10:58,757] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,758] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,758] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[2020-10-24 10:10:58,759] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[2020-10-24 10:10:58,759] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+[2020-10-24 10:10:58,777] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 10:10:58,778] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 10:10:58,778] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,779] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,779] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[2020-10-24 10:10:58,780] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[2020-10-24 10:10:58,780] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+[2020-10-24 10:10:58,829] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,830] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,830] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[2020-10-24 10:10:58,831] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[2020-10-24 10:10:58,831] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+[2020-10-24 10:10:58,832] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 10:10:58,833] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[2020-10-24 10:10:58,833] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[2020-10-24 10:10:58,835] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[2020-10-24 10:10:58,835] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+[2020-10-24 11:44:18,753] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:44:18,754] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:44:18,754] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:44:18,754] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:44:19,356] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:44:19,356] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:44:19,358] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:44:19,358] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:44:24,217] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 11:44:25,108] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 11:44:25,108] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 11:44:25,220] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 11:44:25,220] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:44:25,221] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:44:25,221] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:44:40,979] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:44:41,160] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:44:56,333] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:45:11,512] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:45:26,932] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:45:42,529] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:45:42,742] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:46:15,313] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@3b48e183
+[2020-10-24 11:46:45,758] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:47:06,962] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@5a0bef24
+[2020-10-24 11:47:22,657] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 11-44-18/screenshots/2020-10-2411_47_22_65.jpeg copied
+[2020-10-24 11:47:22,766] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:47:22,766] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:47:22,766] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:47:22,767] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:47:26,449] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 11:47:27,457] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 11:47:27,457] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 11:47:27,465] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 11:47:27,465] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:47:27,466] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:47:27,466] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:47:43,130] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:47:43,226] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:47:58,394] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:48:13,594] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:48:28,937] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:48:44,588] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:48:44,755] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:48:47,315] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 11-44-18/screenshots/2020-10-2411_48_47_312.jpeg copied
+[2020-10-24 11:48:47,403] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:48:47,403] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:48:47,404] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:48:47,404] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:48:50,874] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 11:48:51,928] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 11:48:51,928] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using invalid Credit card payment method,after updating the valid card Test Method started
+[2020-10-24 11:48:51,930] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 11:48:51,931] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:48:51,931] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:48:51,931] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:49:07,593] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:49:07,732] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:49:22,911] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:49:38,070] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:49:53,387] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:50:08,964] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:50:09,224] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:50:11,542] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 11-44-18/screenshots/2020-10-2411_50_11_52.jpeg copied
+[2020-10-24 11:50:11,719] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:11,721] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[2020-10-24 11:50:11,723] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[2020-10-24 11:50:11,724] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[2020-10-24 11:50:11,724] [main] DEBUG (freemarker.cache) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+[2020-10-24 11:50:11,923] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:11,924] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[2020-10-24 11:50:11,924] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[2020-10-24 11:50:11,925] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[2020-10-24 11:50:11,925] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+[2020-10-24 11:50:12,041] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,042] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,043] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[2020-10-24 11:50:12,043] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[2020-10-24 11:50:12,043] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+[2020-10-24 11:50:12,061] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,062] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,063] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[2020-10-24 11:50:12,064] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[2020-10-24 11:50:12,064] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+[2020-10-24 11:50:12,070] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,071] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,071] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[2020-10-24 11:50:12,072] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[2020-10-24 11:50:12,072] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+[2020-10-24 11:50:12,074] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,075] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,076] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[2020-10-24 11:50:12,076] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[2020-10-24 11:50:12,077] [main] DEBUG (freemarker.cache) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+[2020-10-24 11:50:12,083] [main] DEBUG (freemarker.cache) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 11:50:12,090] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,091] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,095] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[2020-10-24 11:50:12,095] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[2020-10-24 11:50:12,095] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+[2020-10-24 11:50:12,098] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,099] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,099] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[2020-10-24 11:50:12,100] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[2020-10-24 11:50:12,100] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+[2020-10-24 11:50:12,101] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,102] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,102] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[2020-10-24 11:50:12,103] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[2020-10-24 11:50:12,103] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+[2020-10-24 11:50:12,116] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,117] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,117] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[2020-10-24 11:50:12,118] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[2020-10-24 11:50:12,118] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+[2020-10-24 11:50:12,123] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,123] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,124] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[2020-10-24 11:50:12,125] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[2020-10-24 11:50:12,125] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+[2020-10-24 11:50:12,163] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,165] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,166] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[2020-10-24 11:50:12,166] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[2020-10-24 11:50:12,166] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+[2020-10-24 11:50:12,183] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 11:50:12,185] [main] DEBUG (freemarker.cache) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[2020-10-24 11:50:12,185] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,187] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,188] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[2020-10-24 11:50:12,188] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[2020-10-24 11:50:12,188] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+[2020-10-24 11:50:12,254] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,254] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,256] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[2020-10-24 11:50:12,256] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[2020-10-24 11:50:12,256] [main] DEBUG (freemarker.cache) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+[2020-10-24 11:50:12,259] [main] DEBUG (freemarker.cache) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[2020-10-24 11:50:12,262] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[2020-10-24 11:50:12,263] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[2020-10-24 11:50:12,264] [main] DEBUG (freemarker.cache) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[2020-10-24 11:50:12,265] [main] DEBUG (freemarker.cache) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/subrata.nayak/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+[2020-10-24 11:52:12,341] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:52:12,342] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:52:12,342] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:52:12,342] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:52:12,925] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:52:12,925] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:52:12,925] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:52:12,926] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:52:17,287] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 11:52:18,264] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 11:52:18,264] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method Test Method started
+[2020-10-24 11:52:18,385] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 11:52:18,385] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:52:18,386] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:52:18,386] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:52:34,096] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:52:34,204] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:52:49,358] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:53:04,534] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:53:19,892] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:53:35,485] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+[2020-10-24 11:53:35,582] [main] INFO  (com.cucumberFramework.pageObjects.BasePage) - Clicking on element with using java script click
+[2020-10-24 11:53:37,566] [main] INFO  (com.cucumberFramework.testBase.TestBase) - Screen shot File D:\Personal Project\Cucumber-BDD-Dkatalis/reports/ExtentReports/24-10-2020 11-52-12/screenshots/2020-10-2411_53_37_554.jpeg copied
+[2020-10-24 11:53:37,680] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: TestBase.properties
+[2020-10-24 11:53:37,680] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:53:37,680] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:53:37,681] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
+[2020-10-24 11:53:41,198] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Driver initialized successfully
+[2020-10-24 11:53:41,797] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - URL Launched successfully
+[2020-10-24 11:53:41,797] [main] INFO  (com.cucumberFramework.stepdefinitions.ServiceHooks) - Purchasing a pillow using valid Credit card payment method with wrong CVV Test Method started
+[2020-10-24 11:53:41,805] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: HomePageStepDefinitions.properties
+[2020-10-24 11:53:41,806] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: UserCredentials.properties
+[2020-10-24 11:53:41,807] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: ErrorMessages.properties
+[2020-10-24 11:53:41,807] [main] WARN  (com.cucumberFramework.testBase.TestBase) - Test Data File not present: PageTitles.properties
