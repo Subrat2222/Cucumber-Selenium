@@ -23,12 +23,12 @@
 |  Property      |	Information             |Possible values|
 |----------------|--------------------------|-----------
 |browserName|Name of the browser to u run tests       | `chrome/firefox/safari/ie/internet explorer/edge`            |
-|url          |Application URL       |`https://odyssey-front.herokuapp.com`            |
+|url          |Application URL       |`https://demo.midtrans.com/        |
 |executionMode          |Tests can be exeucted on local, on grid or on cloud platforms such as Saucelab. When value is set to `remote` platforms are used and more properties for remote needs to be set. When value is set to grid,more properties in grid section of the properties needs to be set for grid execution.|`local\grid\remote`|
 |pageLoadTimeout          |Maximum timeout value in seconds for which selenium scripts can wait for page to load.|`30`|
 |implicitWaitTimeout          |Maximum timeout value in seconds for which selenium scripts can wait for html elements to appear in DOM.|`15`|
-|deviceType|Tests can be executed in desktop/mobile/tablet view. Please set this value to desktop/mobile/tablet only when the browserName is set to chrome       | `desktop/mobile/tablet`    
-|deviceName|Tests can be executed in desktop/mobile/tablet view. Please set this value to valid device name supported by chrome browser such as `Pixel 2`. If the browserName is other than chrome, then device will not be taken into consideration and tests will be run in desktop view for other browsers.       | `Pixel 2/Moto G4/Pixel 2 XL/iPhone 8`  or chrome supported device 
+|deviceType|Tests can be executed in desktop/mobile/tablet view. Please set this value to desktop/mobile/tablet only when the browserName is set to chrome       | `desktop   
+|deviceName|Tests can be executed in desktop/mobile/tablet view. Please set this value to valid device name supported by chrome browser such as `Pixel 2`. If the browserName is other than chrome, then device will not be taken into consideration and tests will be run in desktop view for other browsers.
 
 ### Auto Download of BrowserDriver binaries
 * For Selenium driver management this framework uses Bonigarcia WebDriverManager which is based on `Apache 2.0` License.
@@ -47,10 +47,6 @@
 > 
 ##### Sequential execution
 * Run the `mvn test` command in the root directory of the project in the terminal.
-
-##### Parallel execution 
-* Set the parallel  and thread-count attributes in the testng.xml file as per your requirement. Sample code is below:
- `<test name  =  "Parallel Tests"  parallel  =  "classes"  thread-count  =  "2">`
 
 ### Execution Reports
 * This framework uses ExtentReports for reporting. New execution report gets generated with the timestamp in the `reports\ExtentReports\TimeStamp` directory for each run.
