@@ -1,0 +1,30 @@
+2020-10-24 07:10:365 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:454 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:638 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:812 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:104 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:743 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:843 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:674 INFO  BasePage:49 - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@20a05b32
+2020-10-24 07:10:904 INFO  BasePage:42 - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:210 INFO  BasePage:65 - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@3ee69ad8
+2020-10-24 07:10:281 INFO  ServiceHooks:38 - Purchasing a pillow using valid Credit card payment method is Failed
+2020-10-24 07:10:719 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:803 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:989 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:196 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:534 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:988 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:60 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:116 INFO  BasePage:49 - Unable to navigate to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'[Ljava.lang.StackTraceElement;@35e26d05
+2020-10-24 07:10:400 INFO  BasePage:42 - Navigated to inner frame with id Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='application']/div[3]/div/div/div/iframe'which is present on frame with idProxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:744 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:858 INFO  ServiceHooks:46 - Purchasing a pillow using valid Credit card payment method with wrong CVV is Passed
+2020-10-24 07:10:797 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:885 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:56 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:144 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:396 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:956 INFO  BasePage:60 - Navigated to frame with id Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='snap-midtrans']'
+2020-10-24 07:10:22 INFO  BasePage:73 - Clicking on element with using java script click
+2020-10-24 07:10:791 INFO  ServiceHooks:38 - Purchasing a pillow using invalid Credit card payment method,after updating the valid card is Failed
